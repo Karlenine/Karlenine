@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Gigi
 - 👀 I’m interested in merketing
 - 🌱 I’m currently learning SQL
-- ⚡ Fun fact: Smarty
-
-
 
 <!---
 Karlenine/Karlenine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
