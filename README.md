@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gigi
-- 👀 I’m interested in merketing
+- 👀 I’m interested in marketing
 - 🌱 I’m currently learning SQL
 
 <!---
