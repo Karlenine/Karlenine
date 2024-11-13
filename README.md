@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gigi
+- 👋 Hi, I’m Gigi Karleen
 - 👀 I’m interested in marketing
 - 🌱 I’m currently learning JS
 
