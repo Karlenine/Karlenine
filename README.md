@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gigi Karleen
 - 👀 I’m interested in marketing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 
 <!---
 Karlenine/Karlenine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
