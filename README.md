@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Gigi Karleen
+Hi there!
+
+- 👋 I’m Gigi Karleen
 - 👀 I’m interested in marketing
 - 🌱 I’m currently learning Python
 
